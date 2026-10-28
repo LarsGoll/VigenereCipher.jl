@@ -1,0 +1,7 @@
+name = "VigenereCipher"
+uuid = "9edbdcc4-f167-41e9-be91-e67d98820cc2"
+authors = ["Lars Goll lars.goll@student.uibk.ac.at"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.13.2"
