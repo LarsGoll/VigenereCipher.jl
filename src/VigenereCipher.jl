@@ -1,5 +1,8 @@
 module VigenereCipher
 
-# Write your package code here.
+export encryption, decryption
+
+include("cryption.jl")
+
 
 end
