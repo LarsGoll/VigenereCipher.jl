@@ -65,7 +65,7 @@ end
 
 
 """
-    decryption(message, key, alphabet = ALPHABET
+    decryption(message, key, alphabet = ALPHABET)
 
 Decrypts a message using the Vigenère cipher.
 
